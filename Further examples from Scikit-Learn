@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyMIw2INfBZp1TFAc/H+s1+T",
+      "authorship_tag": "ABX9TyMKHUXcQsXr21PANkmm5NfV",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -38,7 +38,7 @@
     {
       "cell_type": "markdown",
       "source": [
-        "##Code from Alister Luiz' Demo\n",
+        "## Further Examples from Scikig-Learn (modifying the file 'Code from Alister Luiz' Demo')\n",
         "\n",
         "#### From:  https://blogs.alisterluiz.com/code-craft-3-anomaly-detection-with-isolation-forests/##"
       ],
